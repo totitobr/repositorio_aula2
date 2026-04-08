@@ -6,14 +6,15 @@ Praticar os conceitos apresentados na Aula 2.
 
 ## Enunciado
 
-Descreva aqui o enunciado do exercício.
+Este é um template de exercício para a Aula 2. O enunciado será preenchido pelo professor conforme o conteúdo ministrado em aula.
 
 ## Instruções
 
-1. Leia o enunciado com atenção.
-2. Desenvolva a solução proposta.
-3. Teste sua solução.
-4. Documente o que foi feito.
+1. Aguarde o enunciado completo do professor.
+2. Leia o enunciado com atenção.
+3. Desenvolva a solução proposta.
+4. Teste sua solução.
+5. Documente o que foi feito.
 
 ## Entrega
 
