@@ -1,0 +1,19 @@
+#fazer um descritivo de aula de repositorio para github
+#Repositorio é um local onde podemos armazenar arquivos, códigos, projetos, etc. Ele é utilizado para organizar e compartilhar informações de forma eficiente. No GitHub, um repositório pode ser público ou privado, permitindo que os usuários controlem quem tem acesso ao conteúdo. Os repositórios são essenciais para o desenvolvimento colaborativo, pois permitem que várias pessoas trabalhem no mesmo projeto simultaneamente, facilitando a gestão de versões e a integração de mudanças. Além disso, os repositórios podem conter documentação, issues e pull requests, tornando-os uma ferramenta poderosa para o gerenciamento de projetos de software.
+comandos git init - para iniciar um repositório
+git add - para adicionar arquivos ao repositório
+git commit - para salvar as mudanças no repositório
+git push - para enviar as mudanças para o repositório remoto
+git pull - para atualizar o repositório local com as mudanças do repositório remoto
+git clone - para copiar um repositório remoto para o local
+git status - para verificar o status dos arquivos no repositório
+git log - para visualizar o histórico de commits
+git branch - para criar, listar ou excluir branches
+git merge - para combinar branches
+git checkout - para mudar de branch ou restaurar arquivos
+git remote - para gerenciar repositórios remotos
+git fetch - para baixar mudanças do repositório remoto sem mesclar-las
+git stash - para salvar mudanças temporariamente e limpar o diretório de trabalho
+git revert - para desfazer um commit específico
+git reset - para desfazer commits e mudanças no repositório
+
